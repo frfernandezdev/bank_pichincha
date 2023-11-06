@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "data_revision": "2025-01-01T00:00:00.000Z",
+      "data_release": "2023-11-07T00:00:00.000Z",
+      "logo": "https://www.visa.com.ec/dam/VCOM/regional/lac/SPA/Default/Pay%20With%20Visa/Tarjetas/visa-signature-400x225.jpg",
+      "description": "Tarjeta de consumo bajo la modalidad de credio",
+      "name": "Tarjetas de Credito",
+      "id": "trj-crd"
+    }
+  ]
+}
